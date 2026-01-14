@@ -94,3 +94,16 @@ Please send an email to hao.li.1@vanderbilt.edu or Slack me for any questions, a
 
 
 
+If you find this repository useful, please consider citing this paper:
+
+```bibtex
+@inproceedings{li2025automated,
+  title={Automated segmentation of central airway obstruction from endoscopic video stream with deep learning},
+  author={Li, Hao and Wang, Jiacheng and Kumar, Nithin and d’Almeida, Jesse and Lu, Daiwei and Acar, Ayberk and Han, John and Yang, Qingyun and Ertop, Tayfun Efe and Wu, Jie Ying and others},
+  booktitle={Medical Imaging 2025: Image-Guided Procedures, Robotic Interventions, and Modeling},
+  volume={13408},
+  pages={113--119},
+  year={2025},
+  organization={SPIE}
+}
+
