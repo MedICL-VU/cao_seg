@@ -4,7 +4,6 @@
 <p align="center">
     <img src="/assets/part_all.gif" width="1000"/> <br />
 </p>
-(compression issue occurs in top row)
 
 ## News
 - **2025-03-06:** Integrated Mobileone_S1 in the framework.
@@ -94,7 +93,4 @@ Please send an email to hao.li.1@vanderbilt.edu or Slack me for any questions, a
 
 
 
-## limitations
-
-a lot
 
