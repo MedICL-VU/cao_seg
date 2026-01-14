@@ -1,22 +1,6 @@
 # Automated CAO segmentation
-This repository is for training the Segmentation model. For any questions, please send emails/slacks.
-
-# Authors
-* **Maintainer:** Jane (kanyifeechukwu.j.oguine@Vanderbilt.Edu)
 
 
-  
-**TLDR**
-
-put [checkpoint](https://vanderbilt.app.box.com/folder/310974131184) at same level of "test_one_line.py" and "test_one_line_import.py"
-```
-python test_one_line.py --input_dir <YOUR_INPUT_DIR> ---output_dir <YOUR_OUTPUT_DIR>
-```
-input directory contains raw frames, 1080x1920, and the same size results are saved in output_dir
-
-This repo is generic and will continue to be updated/organized.
-
-**Quick visualization**
 <p align="center">
     <img src="/assets/part_all.gif" width="1000"/> <br />
 </p>
